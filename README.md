@@ -60,4 +60,4 @@ description: "What this skill does and when Claude should use it. Be specific â€
 
 | Skill | Description |
 |-------|-------------|
-| *(none yet)* | |
+| [design-interrogator](skills/design-interrogator/SKILL.md) | Relentless design reviewer that probes design and implementation decisions through iterative, code-grounded questioning. |
