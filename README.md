@@ -1,7 +1,5 @@
 # custom-claude-skills
 
-# claude-skills
-
 A personal library of reusable custom skills for Claude.
 
 ## What are skills?
